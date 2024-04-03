@@ -3,8 +3,8 @@
 
 이 repository는 결혼식 초대를 위한 모바일청첩장입니다. :)
 
-bin-wedding-card/wedding-card/docs/images
-![메인사진](https://github.com/HyunBinCreater/Wedinvitation/bin-wedding-card/wedding-card/docs/images/wp4.png)
+
+![메인사진](https://github.com/HyunBinCreater/wedinvitation/bin-wedding-card/wedding-card/docs/images/wp4.png)
 
 ## 예식정보
 
